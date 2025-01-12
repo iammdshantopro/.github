@@ -16,7 +16,6 @@ I’m a 3D artist, game designer, and web developer passionate about creating im
 
 🎮 Game Development
 	•	Creator of a multiplayer spade game using Photon.
-	•	Level designer for co-op shooter games with stylized sci-fi aesthetics.
 	•	Author on GameDevGuides, exploring Unity game assets, pros/cons, and development tips.
 
 🌐 Web Development
@@ -26,7 +25,6 @@ I’m a 3D artist, game designer, and web developer passionate about creating im
 
 🎨 3D Animation
 	•	Developer of the “Eye See 3D Animation” project for eye care products.
-	•	Promoter of innovative ideas like the Birds AI App and Gas Garda.
 
 🛠️ Tech Stack
 	•	Languages: JavaScript, C#, HTML, CSS
