@@ -52,4 +52,3 @@ I’m a 3D artist, game designer, and web developer passionate about creating im
 	•	Tips for Managing Game Development Teams
 	•	Web Development Insights
 
-Let me know if you’d like any tweaks!
